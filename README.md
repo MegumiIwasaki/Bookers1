@@ -1,24 +1,7 @@
-# README
+# Bookers1について
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+読んだ本の投稿をするサイトです。
 
-Things you may want to cover:
+本のタイトルと感想を投稿することができます。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+投稿した内容は編集、削除することも可能です。
